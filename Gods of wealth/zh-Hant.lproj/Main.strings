@@ -1,0 +1,30 @@
+
+/* Class = "UITextView"; text = "恭喜發財"; ObjectID = "E7r-nl-emf"; */
+"E7r-nl-emf.text" = "恭喜發財";
+
+/* Class = "UISegmentedControl"; gQe-07-5oK.segmentTitles[0] = "利市仙官"; ObjectID = "gQe-07-5oK"; */
+"gQe-07-5oK.segmentTitles[0]" = "利市仙官";
+
+/* Class = "UISegmentedControl"; gQe-07-5oK.segmentTitles[1] = "納珍天尊"; ObjectID = "gQe-07-5oK"; */
+"gQe-07-5oK.segmentTitles[1]" = "納珍天尊";
+
+/* Class = "UISegmentedControl"; gQe-07-5oK.segmentTitles[2] = "玄壇真君"; ObjectID = "gQe-07-5oK"; */
+"gQe-07-5oK.segmentTitles[2]" = "玄壇真君";
+
+/* Class = "UISegmentedControl"; gQe-07-5oK.segmentTitles[3] = "招財使者"; ObjectID = "gQe-07-5oK"; */
+"gQe-07-5oK.segmentTitles[3]" = "招財使者";
+
+/* Class = "UISegmentedControl"; gQe-07-5oK.segmentTitles[4] = "招寶天尊"; ObjectID = "gQe-07-5oK"; */
+"gQe-07-5oK.segmentTitles[4]" = "招寶天尊";
+
+/* Class = "UIButton"; configuration.title = "◀️"; ObjectID = "rkx-Q0-xJz"; */
+"rkx-Q0-xJz.configuration.title" = "◀️";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rkx-Q0-xJz"; */
+"rkx-Q0-xJz.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "▶️"; ObjectID = "x2q-DB-VXx"; */
+"x2q-DB-VXx.configuration.title" = "▶️";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "x2q-DB-VXx"; */
+"x2q-DB-VXx.normalTitle" = "Button";
